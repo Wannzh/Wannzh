@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Alwan 👋
 
-<!--
-**Wannzh/Wannzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+Halo! Saya **Muhamad Alwan Fadhlurrohman**, seorang pengembang yang tertarik pada **Web Development**, **Java Spring Boot**, dan **Database Management**.  
+Saya suka membangun aplikasi yang fungsional, bersih, dan mudah digunakan.
 
-Here are some ideas to get you started:
+- 🌍 Berdomisili di Indonesia  
+- 💼 Terbuka untuk kolaborasi dan proyek freelance  
+- 📚 Suka mempelajari teknologi baru dan meningkatkan skill
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+Berikut beberapa proyek unggulan saya:
+
+- **[LocoBooking](https://github.com/Wannzh/LocoBooking)**  
+  Sistem reservasi berbasis web dengan integrasi database dan fitur pencarian lokasi.
+
+- **[PROJECT-WISHLIST-MOVIE](https://github.com/Wannzh/PROJECT-WISHLIST-MOVIE)**  
+  Aplikasi untuk menyimpan daftar film favorit dan wishlist, dibangun dengan HTML, CSS, dan JavaScript.
+  🔗 Live Demo: wannzh.github.io/PROJECT-WISHLIST-MOVIE/
+
+- **[Perpustakaan](https://github.com/Wannzh/Perpustakaan)**  
+  Sistem manajemen perpustakaan dengan fitur pencatatan buku, siswa, dan transaksi peminjaman.
+  Proyek Tugas Akhir untuk Jurusan D3 Manajemen Informatika.
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Java, PHP, JavaScript, HTML, CSS  
+- **Frameworks & Tools:** Spring Boot, Maven, Bootstrap, MySQL, XAMPP  
+- **Other Skills:** REST API, CRUD, Responsive Web Design
+
+---
+
+## 📫 Connect with Me
+- GitHub: [@Wannzh](https://github.com/Wannzh)  
+- LinkedIn: *(isi link LinkedIn kamu kalau ada)*  
+- Email: *(isi email kamu)*
+
+---
+
+⭐ Jangan lupa untuk memberikan **star** ⭐ pada repo saya jika menurutmu bermanfaat!
