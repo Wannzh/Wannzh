@@ -35,7 +35,7 @@ Berikut beberapa proyek unggulan saya:
 
 ## 📫 Connect with Me
 - GitHub: [@Wannzh](https://github.com/Wannzh)  
-- LinkedIn: linkedin.com/in/muhamad-alwan-fadhlurrohman](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
+- LinkedIn: [linkedin.com/in/muhamad-alwan-fadhlurrohman](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
 - Email: alwanfdhlrhmn@gmail.com
 
 ---
