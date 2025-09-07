@@ -19,7 +19,8 @@ Berikut beberapa proyek unggulan saya:
 - **[PROJECT-WISHLIST-MOVIE](https://github.com/Wannzh/PROJECT-WISHLIST-MOVIE)**  
   Aplikasi untuk menyimpan daftar film favorit dan wishlist, dibangun dengan HTML, CSS, dan JavaScript.
 
-  **[🔗 Live Demo](https://wannzh.github.io/PROJECT-WISHLIST-MOVIE/)**
+  **Vercel: [Live Demo](https://project-list-movie.vercel.app/)**
+  **Github Page: [Live Demo](https://wannzh.github.io/PROJECT-WISHLIST-MOVIE/)**
 
 - **[Perpustakaan](https://github.com/Wannzh/Perpustakaan)**  
   Sistem manajemen perpustakaan dengan fitur pencatatan buku, siswa, dan transaksi peminjaman.
