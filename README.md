@@ -20,6 +20,7 @@ Berikut beberapa proyek unggulan saya:
   Aplikasi untuk menyimpan daftar film favorit dan wishlist, dibangun dengan HTML, CSS, dan JavaScript.
 
   **Vercel: [Live Demo](https://project-list-movie.vercel.app/)**
+  **Cloudflare: [Live Demo](https://wanflix.pages.dev/)**
   **Github Page: [Live Demo](https://wannzh.github.io/PROJECT-WISHLIST-MOVIE/)**
 
 - **[Perpustakaan](https://github.com/Wannzh/Perpustakaan)**  
