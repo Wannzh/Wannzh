@@ -167,10 +167,19 @@ const alwan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Wannzh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wannzh&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://github.com/Wannzh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wannzh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Alwan's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wannzh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wannzh&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wannzh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wannzh&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
