@@ -96,7 +96,7 @@ const alwan = {
 </td>
 <td width="50%">
 
-### 💰 [ZakatNow](https://zakat-now.vercel.app/)
+### 💰 [ZakatNow](https://zakatnow.alwanfdh.my.id/)
 
 > _Platform perhitungan & penyaluran Zakat_
 
@@ -106,8 +106,8 @@ const alwan = {
 - Backend: Java Spring Boot, PostgreSQL
 - Features: Kalkulator Zakat, Dashboard Admin
 
-[![Code](https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github)](https://github.com/Wannzh/zakat-now)
-[![Demo](https://img.shields.io/badge/Live-Demo-red?style=flat-square&logo=vercel)](https://zakat-now.vercel.app/)
+[![Code](https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github)](https://github.com/Wannzh/zakatNow-app.git)
+[![Demo](https://img.shields.io/badge/Live-Demo-red?style=flat-square&logo=vercel)](https://zakatnow.alwanfdh.my.id/)
 
 </td>
 </tr>
